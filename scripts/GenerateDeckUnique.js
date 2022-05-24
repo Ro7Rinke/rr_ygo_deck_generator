@@ -1,4 +1,4 @@
-const generateDeck = require('./GenerateDeckCore')
+const generateDeck = require('./GenerateDeck')
 
 let deckAmount = 1
 
